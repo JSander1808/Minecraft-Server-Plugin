@@ -1,0 +1,6 @@
+name: Rembel
+version: '${project.version}'
+main: rembel.de.rembel.Rembel
+api-version: 1.19
+authors: [ RembelGHG ]
+website: cloudsystem.duckdns.org
